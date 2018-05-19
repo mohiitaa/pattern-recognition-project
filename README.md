@@ -1,2 +1,5 @@
 # pattern-recognition-project
-Contains implementation of Perceptron and Gaussian MLE based Bayes Classifier
+Contains implementation of the following ML algorithms
+* Perceptron Learning
+* Gaussian Maximum Likelihood Estimation
+* Neural Network
